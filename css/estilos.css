@@ -8,7 +8,6 @@ body
     margin: 0;
     padding: 0;
 }
-
 #cabecera
 {
     background: #37488b;
@@ -18,13 +17,12 @@ body
     margin: 0;
     padding: 0.5em;
 }
-
 #cabecera #logo
 {
     width: 20px;
     vertical-align: middle;
+    fronnt
 }
-
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
